@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "sapatoBacana",
+      "preco": "typicode",
+      "imagem": "sapado.jpg"
+    }
+  ]
+}
